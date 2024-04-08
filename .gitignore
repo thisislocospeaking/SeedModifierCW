@@ -1,0 +1,6 @@
+.vs/
+libs/
+obj/
+bin/
+SeedModifier.sln
+Patches/spawnPatch.cs.wip
